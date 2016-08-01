@@ -8,3 +8,6 @@ This program modifies the video from Web Cam allowing the user to apply the foll
 
 2. Histogram equalization
 ![Alt text](images/equalization.png?raw=true "Equalize histogram")
+
+3. Alien mode
+![Alt text](images/alien.png?raw=true "Alien mode")
