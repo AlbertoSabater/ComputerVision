@@ -1,4 +1,4 @@
-# ComputerVision
+# Special Effects
 
 This program modifies the video from Web Cam allowing the user to apply the following effects:
 
@@ -14,10 +14,10 @@ This color transformation uses a mask in different color spaces to detect the co
 ![Alt text](images/alien.png?raw=true "Alien mode")
 
 4. Posterize <br />
-First version umbralize all the RGB color space. <br />
+   * First version umbralizes all the RGB color space. <br />
 ![Alt text](images/poster.png?raw=true "Poster")
 
-Second version uses K-means to clusterize the RGB image colors. <br />
+   * Second version uses K-means to clusterize the RGB image colors. <br />
 ![Alt text](images/poster-Kmeans.png?raw=true "Poster with K-means")
 
 5. Barrel and pincushion distortion <br />
